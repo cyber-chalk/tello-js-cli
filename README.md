@@ -1,5 +1,5 @@
 # tello-js-cli
-### allows you to control the tello drone (ryzerobotics.com/tello) through a command line. 
+### allows you to control the tello drone (ryzerobotics.com/tello) through a command line powered by javascript. 
 
 # how to install
 #### 1. install node js (preferably current lts)
